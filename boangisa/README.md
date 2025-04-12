@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [📂 시스템 보안](./system-security.md)
+- [📂 시스템 보안](./SystemSecurity/system-security.md)
 - [📂 네트워크 보안](./network-security.md)
 - [📂 어플리케이션 보안](./application-security.md)
 - [📂 정보보안 일반](./general-security.md)
