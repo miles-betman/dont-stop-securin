@@ -27,3 +27,28 @@
 | **IBR (Instruction Buffer Register)** | 하나의 메모리 워드 내에 **두 개의 명령어가 존재**할 경우, 나중 명령어를 임시 저장하는 버퍼 역할을 수행한다. |
 | **AC (Accumulator)** | 연산 결과를 일시적으로 저장하는 **누산기**로, 산술 및 논리 연산의 결과값을 보관한다. |
 | **MQ (Multiplier Quotient Register)** | **곱셈이나 나눗셈 연산**에서 곱수, 몫 등의 값을 저장하는 레지스터로, AC와 함께 사용된다. |
+
+---
+
+### 🔄 레지스터 간 동작 흐름 설명
+
+1. **PC (Program Counter)**  
+   다음에 실행할 명령어의 주소를 보관하고, 명령어 실행 시마다 증가하여 다음 명령어 주소를 가리킨다.
+
+2. **MAR (Memory Address Register)**  
+   PC로부터 전달받은 주소를 바탕으로 주기억장치에 접근하기 위한 주소 정보를 보관한다.
+
+3. **MBR (Memory Buffer Register)**  
+   메모리에서 읽어온 데이터 또는 명령어를 일시적으로 저장한다.
+
+4. **IR (Instruction Register)**  
+   현재 실행할 명령어를 저장하고, 제어장치가 이 명령어를 해석한다.
+
+5. **IBR (Instruction Buffer Register)**  
+   하나의 메모리 워드에 두 개의 명령어가 있을 경우, 나중에 실행될 명령어를 임시로 저장한다.
+
+6. **AC (Accumulator)**  
+   연산 결과를 저장하는 누산기로, ALU 연산 결과가 여기 저장된다.
+
+7. **MQ (Multiplier Quotient Register)**  
+   곱셈 또는 나눗셈 연산에서 사용되는 곱수 또는 몫 등의 값을 저장한다.
