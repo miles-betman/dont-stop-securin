@@ -45,18 +45,20 @@
 - **"Corporate Governance"** - Robert A.G. Monks
 - **"Compliance Management"** - Kristy Grant-Hart
 - **"Risk Management and Financial Institutions"** - John C. Hull
+- **1QPASS 개인정보관리사CPPG 필독서** - 김창중 
 
 ### 온라인 학습 리소스
 - [ISACA 웹사이트](https://www.isaca.org/)
 - [ISACA 온라인 학습 플랫폼](https://www.isaca.org/education)
 - [CPGG 커뮤니티 포럼](https://engage.isaca.org/)
 
-## 📝 학습 계획 및 방법
+## 📝 학습 계획 및 방법(Study Plan and Method)
 
 ### 1단계: 기초 지식 습득 (4-6주)
 - 거버넌스 기본 개념 이해
 - 리스크 관리 프레임워크 학습
 - 컴플라이언스 관련 법규 및 표준 학습
+- [문제 풀이](/cppg/StudyPlanAndMethod/solve-sample-questions.md)
 
 ### 2단계: 심화 학습 (6-8주)
 - 실제 사례 연구 및 분석
