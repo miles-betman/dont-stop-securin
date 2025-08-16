@@ -41,6 +41,8 @@
 #### 2. 개인정보보호의 중요성
 #### 3. 기업의 사회적 책임
 
+#### 문제 풀이([sample-question-part1](/cppg/StudyPlanAndMethod/sample-questions-part1.md))
+
 ### PART 2. 개인정보보호 제도
 
 #### 1. 개인정보보호 관련 법률체계 
