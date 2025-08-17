@@ -50,6 +50,9 @@
 #### 3. 정보주체의 권리
 #### 4. 분쟁해결 절차 
 
+#### FAQ ([part2-faq](/cppg/StudyPlanAndMethod/part2-faq.md))
+#### 문제 풀이([sample-question-part2](/cppg/StudyPlanAndMethod/sample-questions-part2.md))
+
 ### PART 3. 개인정보 라이프사이클 관리
 
 #### 1. 개인정보 수집, 이용
